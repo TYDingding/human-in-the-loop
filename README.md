@@ -2,7 +2,9 @@
 
 ### Code
 majority_voting.ipynb
+
 em.ipynb
+
 svd.ipynb
 
 ### Dataset
